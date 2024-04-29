@@ -12,7 +12,7 @@ This project aims to classify dry beans using three different machine learning a
 - **Hyperparameter Tuning**: Grid search with cross-validation is employed to find the optimal hyperparameters for the SVC model.
 - **Model Evaluation**: The best model is evaluated on the test set using confusion matrix and classification report. Accuracy scores are calculated to assess model performance.
 
-## Softmax Regression with Adam Optimizer using TensorFlow
+## Softmax Classifier with Adam Optimizer using TensorFlow
 - **Preprocessing**: The dataset is split into training and testing sets, and class labels are encoded.
 - **Model Architecture**: A softmax regression model with two hidden layers is built using TensorFlow's Keras API.
 - **Model Training**: The model is trained on the training data using the Adam optimizer and sparse categorical crossentropy loss function.
