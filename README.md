@@ -1,6 +1,6 @@
 # Multi-Algorithm Machine Learning Project for Dry Bean Classification
 
-This project aims to classify dry beans using three different machine learning algorithms: Random Forest, Support Vector Classifier (SVC), and Long Short-Term Memory (LSTM) neural network. The dataset used in this project is the Dry Bean Dataset obtained from the UCI Machine Learning Repository.
+This project aims to classify dry beans using three different machine learning algorithms: Random Forest, Support Vector Classifier (SVC), and Softmax Classifier neural network. The dataset used in this project is the Dry Bean Dataset obtained from the UCI Machine Learning Repository.
 
 ## Random Forest Classifier
 - **Preprocessing**: The dataset is preprocessed and split into training and testing sets. Feature scaling and selection are performed using pipelines.
